@@ -15,7 +15,7 @@ java -jar target/rocksdb_threadpool_write-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 ## cores
-cores file is the 'core.32515',
+run the project, and you'll get the cores file. 
 use gdb to see the backtrace,
 ```
 (gdb) bt
